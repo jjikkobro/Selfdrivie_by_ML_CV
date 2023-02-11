@@ -1,0 +1,4 @@
+0 Stop
+1 Go
+2 Crosswalk
+3 Road
