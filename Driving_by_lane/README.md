@@ -6,7 +6,7 @@ When I organize the lines for classifying which is on the left side or right sid
 And there is also crosswalk, but the code detects a lot of lines on crosswalk, so I made a model which detects the crosswalk. When the model detect it, stop detecting lines and getting the last angle value and it just move follow the last angle till passing it.
 
 1. Run the Arduino code : general_driving.ino ( You have to close the arduino serial board )
-2. Run the Python code : general_driving.ino
+2. Run the Python code : general_driving_v2.py
 3. Input any value to console
 4. The car will move with detecting lines
 
